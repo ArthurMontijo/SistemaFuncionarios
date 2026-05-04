@@ -1,4 +1,10 @@
-.vscode/
+*.class
 bin/
 out/
-*.class
+.idea/
+.settings/
+.classpath
+.project
+.vscode/
+.DS_Store
+Thumbs.db
